@@ -15,7 +15,7 @@ void loop() {
 
   delay(1000);
   
-  for (int i = 0; i <= 180; i++) {
+  for (int i = 0; i <= 3000; i++) {
     servoMotor.writeMicroseconds(i);  
     delay(15);                        
   }
