@@ -1,3 +1,14 @@
+/* Deneyapkart ile uyumlu calisabilecek infrared kumanda alici uygulamasi.
+ * Kodlari kullanabilmek icin oncelikle https://github.com/Arduino-IRremote/Arduino-IRremote/ kutuphanesini libraries'e eklemis olmalisin!
+ * 
+ * Dikkat 1: 'IR_RECEIVE_PIN' de sensoru bagladigin pini belirtmelisin!
+ * Dikkat 2: 'tuslar.h' dosyasi icerisnde kumanda komutlarinin adresleri senin kullandigin kumanda ile uyusmuyor olabilir!!! 
+ *            tus numaralari dogru gelmiyorsa 'tuslar.h' dosyasında tusların adreslerini kumandanınkine göre guncelle!!!!!!!
+ *            
+ *  Detaylı bilgi icin Github 0xhamza: https://github.com/0xHamza/Deneyapkart-Uygulamalar-ve-Projeler 
+ */
+
+
 #include <IRremote.h>
 #include "deneyap.h"
 #include "tuslar.h"
