@@ -6,8 +6,8 @@ Bu kod, Deneyapkart ile uyumlu çalışabilecek bir infrared kumanda alıcı uyg
 
 * **Kütüphane:** https://github.com/Arduino-IRremote/Arduino-IRremote/ kütüphanesini Arduino IDE'nizdeki "Libraries" bölümüne eklemeniz gerekiyor.
 * **Infrared Sensör:** Deneyapkart'a bağlayacağınız bir infrared sensör.
-* **Ana Kod:** (DENEYAP_Infrared_KizilOtesi.ino)[/DENEYAP_Infrared_KizilOtesi/DENEYAP_Infrared_KizilOtesi.ino]  Bu, infrared kumanda alıcı uygulamasının ana kod dosyasıdır. Infrared sinyalleri alır, işler ve buna göre eylemler gerçekleştirir.
-* **Tus Tanımlamaları:** (tuslar.h)[/DENEYAP_Infrared_KizilOtesi/tuslar.h]Bu dosya, kızılötesi kumandadaki tuş adreslerini ve komut değerlerini tanımlar. Kullandığınız kumandanın tuş adreslerine göre bu dosya üzerinde düzenlemeler yapmanız gerekebilir.
+* **Ana Kod:** [DENEYAP_Infrared_KizilOtesi.ino](DENEYAP_Infrared_KizilOtesi/DENEYAP_Infrared_KizilOtesi.ino)  Bu, infrared kumanda alıcı uygulamasının ana kod dosyasıdır. Infrared sinyalleri alır, işler ve buna göre eylemler gerçekleştirir.
+* **Tus Tanımlamaları:** [tuslar.h](DENEYAP_Infrared_KizilOtesi/tuslar.h)Bu dosya, kızılötesi kumandadaki tuş adreslerini ve komut değerlerini tanımlar. Kullandığınız kumandanın tuş adreslerine göre bu dosya üzerinde düzenlemeler yapmanız gerekebilir.
 
 
 
