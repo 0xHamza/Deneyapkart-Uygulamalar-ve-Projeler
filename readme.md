@@ -1,6 +1,4 @@
-
-
-Deneyap Kart Projeler
+Deneyap Kart Projeler | Nesnelerin İnterneti ve İleri Robotik Dersi
 ========================
 
 Bu repo, Deneyap Teknoloji Atölyeleri Nesnelerin İnterneti ve İleri Robotik dersleri sırasında Deneyap Geliştirme Kartı ile yapılmış örnek projelerin kodlarını ve bağlantı şemalarını içerir. Projelerin detaylarına ulaşmak için aşağıdaki listeden ilgili projenin adına tıklayabilirsiniz.
@@ -8,6 +6,23 @@ Bu repo, Deneyap Teknoloji Atölyeleri Nesnelerin İnterneti ve İleri Robotik d
 Kodlar Arduino ile Deneyap Kart üzerinde çalışacak şekilde hazırlanmıştır. Aynı zamanda ESP32 tabanlı ESP8266, NodeMCU gibi geliştirme kartları üzerinde de çalıştırılabilir.
 
 Listede yer almayan projeleri eklemek için PR gönderebilirsiniz. Listede yer alan projelerin kodlarında karşılaştığınız hataları veya projelerin geliştirilmesi için önerilerinizi iletmek için issue açabilirsiniz.
+
+### 🧠 3. Yapay Zeka (Farklı Depo)
+Yapay zeka müfredatına ait ders notları, Python uygulamaları ve makine öğrenmesi modellerine aşağıdaki depodan ulaşabilirsiniz:
+* **🔗 [Yapay Zeka Deneyap Dersleri Reposu](https://github.com/0xHamza/Yapay-Zeka-Deneyap-Dersleri)**
+* **İçerik:** kNN algoritması, karar ağaçları, bulanık mantık ve derin öğrenme uygulamaları.
+
+---
+
+<p align="center">
+  <b>🤖 Yapay Zekaya Sor, Aradığın kodlar ve proje hakkında daha hızlı bilgi sahibi ol!</b><br>
+  <a href="https://deepwiki.com/0xHamza/Deneyapkart-Uygulamalar-ve-Projeler">
+    <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki">
+  </a>
+  <a href="https://codewiki.com/view/0xHamza/Deneyapkart-Uygulamalar-ve-Projeler">
+    <img src="https://img.shields.io/badge/CodeWiki-Documentation-success" alt="CodeWiki">
+  </a>
+</p>
 
 Lisans ve Kullanım Hakkında:
 ---------------------------
@@ -19,11 +34,11 @@ Detaylı bilgi için [Deneyap Kart](https://deneyapkart.org/) web sitesini ziyar
 -----------------------------------
 Derleyen ve Repo Sahibi: [0xhamza](https://github.com/0xHamza)
 
-## İçindekiler
+### Yapay Zeka Dersi (Farklı Depo)
+Yapay zeka müfredatına ait ders notları, Python uygulamaları ve makine öğrenmesi modellerine aşağıdaki depodan ulaşabilirsiniz, İçerik: kNN algoritması, karar ağaçları, bulanık mantık ve derin öğrenme uygulamaları.
+* **🔗 [Yapay Zeka Deneyap Dersleri Reposu](https://github.com/0xHamza/Yapay-Zeka-Deneyap-Dersleri)** 
 
-
-
-
+## İçindekiler | Nesnelerin İnterneti 1-63 & İleri Robotik 64-94
 
 - 1 <a href="#1">DENEYAP Infrared KizilOtesi</a>
 - 2 <a href="#2">DENEYAP L10 1 DHT11 NEM SICAKLIK</a>
