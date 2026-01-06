@@ -19,7 +19,7 @@ Yapay zeka müfredatına ait ders notları, Python uygulamaları ve makine öğr
   <a href="https://deepwiki.com/0xHamza/Deneyapkart-Uygulamalar-ve-Projeler">
     <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki">
   </a>
-  <a href="https://codewiki.com/view/0xHamza/Deneyapkart-Uygulamalar-ve-Projeler">
+  <a href="https://codewiki.google/github.com/0xHamza/Deneyapkart-Uygulamalar-ve-Projeler">
     <img src="https://img.shields.io/badge/CodeWiki-Documentation-success" alt="CodeWiki">
   </a>
 </p>
